@@ -1,5 +1,7 @@
 # demo-repo
-This is my first demo repo. 
+
+This is my first demo repo.
 </br>
-Author: Govardhan Pandit
+Author: Mr. Govardhan Pandit
 <b>Hello World!!</b>
+my name is vishu.
